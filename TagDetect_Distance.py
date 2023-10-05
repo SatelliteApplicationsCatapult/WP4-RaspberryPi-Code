@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 # This code waits 10 seconds, then takes a picture and save it with a timestamp.
+# The code will then open the picture and check if an April tag has been detected. 
 # Environment: Code on raspberry pi 4b+ with raspberry pi camera on board
 
 # Import required libraries
